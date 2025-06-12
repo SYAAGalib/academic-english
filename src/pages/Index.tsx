@@ -137,7 +137,7 @@ const Index = () => {
               {
                 title: isBangla ? 'এসএসসি (৯-১০)' : 'SSC (9-10)',
                 description: isBangla ? 'Narration, Voice এবং বোর্ড প্রস্তুতি' : 'Narration, Voice & board preparation',
-                image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+                image: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
                 href: isBangla ? '/bn/ssc' : '/ssc',
                 students: '4,200+',
                 lessons: '60'

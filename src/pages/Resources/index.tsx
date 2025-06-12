@@ -80,7 +80,7 @@ const Resources: React.FC = () => {
       studentsCount: isBangla ? "১০,০০০+ ডাউনলোড" : "10,000+ Downloads",
       rating: "4.9",
       category: isBangla ? "PDF" : "PDF",
-      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
     },
     {
       title: isBangla ? "ইংরেজি গল্পের বই" : "English Story Books",
