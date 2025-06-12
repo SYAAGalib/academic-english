@@ -2,6 +2,22 @@
 
 ## Project info
 
+Here are some screenshots of the project:
+
+### Landing Page
+![Landing Page Screenshot](./public/landing-page.png)
+
+### SSC Page
+![SSC Page Screenshot](./public/ssc.png)
+
+### Admission Prep Page
+![Admission Prep Page Screenshot](./public/admission-prep.png)
+
+### Resources Page
+![Resources Page Screenshot](./public/resources.png)
+
+### Blog Page
+![Blog Page Screenshot](./public/Blog.png)
 
 ## How can I edit this code?
 
