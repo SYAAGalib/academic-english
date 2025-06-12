@@ -4,20 +4,20 @@
 
 Here are some screenshots of the project:
 
-### Blog Page
-![Blog Page Screenshot](./public/Blog.png)
+### Landing Page
+![Landing Page Screenshot](./public/landing-page.png)
+
+### SSC Page
+![SSC Page Screenshot](./public/ssc.png)
 
 ### Admission Prep Page
 ![Admission Prep Page Screenshot](./public/admission-prep.png)
 
-### Landing Page
-![Landing Page Screenshot](./public/landing-page.png)
-
 ### Resources Page
 ![Resources Page Screenshot](./public/resources.png)
 
-### SSC Page
-![SSC Page Screenshot](./public/ssc.png)
+### Blog Page
+![Blog Page Screenshot](./public/Blog.png)
 
 ## How can I edit this code?
 
