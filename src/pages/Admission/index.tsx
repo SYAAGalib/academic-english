@@ -80,7 +80,7 @@ const Admission: React.FC = () => {
       studentsCount: isBangla ? "৪,৫০০+ শিক্ষার্থী" : "4,500+ students",
       rating: "4.7",
       category: isBangla ? "চিকিৎসা" : "Medical",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
     },
     {
       title: isBangla ? "Analogy & Logic Problems" : "Analogy & Logic Problems",

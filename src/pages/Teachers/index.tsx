@@ -60,7 +60,7 @@ const Teachers: React.FC = () => {
       studentsCount: isBangla ? "৮০০+ শিক্ষক" : "800+ Teachers",
       rating: "4.8",
       category: isBangla ? "পাঠ পরিকল্পনা" : "Lesson Plans",
-      image: "https://images.unsplash.com/photo-1606140849200-e379bfdd1e2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
     },
     {
       title: isBangla ? "ইন্টারঅ্যাক্টিভ গ্রামার ওয়ার্কশীট" : "Interactive Grammar Worksheets",

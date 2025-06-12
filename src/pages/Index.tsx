@@ -145,7 +145,7 @@ const Index = () => {
               {
                 title: isBangla ? 'এইচএসসি (১১-১২)' : 'HSC (11-12)',
                 description: isBangla ? 'উন্নত ব্যাকরণ ও সাহিত্য' : 'Advanced grammar & literature',
-                image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+                image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
                 href: isBangla ? '/bn/hsc' : '/hsc',
                 students: '3,800+',
                 lessons: '75'
@@ -169,7 +169,7 @@ const Index = () => {
               {
                 title: isBangla ? 'রিসোর্স লাইব্রেরি' : 'Resource Library',
                 description: isBangla ? 'PDF, ওয়ার্কশিট ও অডিও' : 'PDFs, worksheets & audio files',
-                image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+                image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
                 href: isBangla ? '/bn/resources' : '/resources',
                 students: '8,900+',
                 lessons: '200+'

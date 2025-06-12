@@ -70,7 +70,7 @@ const HSC: React.FC = () => {
       studentsCount: isBangla ? "২,৮০০+ শিক্ষার্থী" : "2,800+ students",
       rating: "4.9",
       category: isBangla ? "পড়া" : "Reading",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
     },
     {
       title: isBangla ? "Essay Writing Techniques" : "Essay Writing Techniques",
