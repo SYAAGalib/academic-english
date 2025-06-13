@@ -19,6 +19,9 @@ Here are some screenshots of the project:
 ### Blog Page
 ![Blog Page Screenshot](./public/Blog.png)
 
+
+###To Visit Live: [click here](academic-english.vercel.app)
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
